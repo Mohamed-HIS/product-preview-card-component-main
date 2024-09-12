@@ -2,7 +2,7 @@
 
 # Frontend Mentor - Product preview card component
 
-## Demo:
+## Demo:https://mohamed-his.github.io/product-preview-card-component-main/
 
 
 # Features:
